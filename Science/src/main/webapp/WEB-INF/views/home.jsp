@@ -6,9 +6,11 @@
 </head>
 <body>
 <h1>
-	Welcome to Science Lad!!!!  
+	Welcome to Science Lad !  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<div>Introduction here.....</div>
 </body>
 </html>
