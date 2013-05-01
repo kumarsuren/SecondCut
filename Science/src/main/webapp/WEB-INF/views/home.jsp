@@ -2,11 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Welcome to Science Olympiad Questions Admin</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	Welcome to Science Lad!!!!  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
