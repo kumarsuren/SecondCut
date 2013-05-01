@@ -3,6 +3,14 @@
 <html>
 <head>
 	<title>Welcome to Science Olympiad Questions Admin</title>
+	<style>
+	.box1{
+		width:500px;
+		border:1px solid blue;
+	}
+	
+	</style>
+	
 </head>
 <body>
 <h1>
@@ -11,6 +19,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<div>Introduction here.....</div>
+<div class="box1">Introduction here.....</div>
 </body>
 </html>
